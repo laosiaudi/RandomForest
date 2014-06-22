@@ -17,7 +17,7 @@ For Machine Learning course
 ##Compile and run  
  1. For `Linux`,   
     g++ main.cpp dTree.cpp RF.cpp -lboost_system -lboost_thread -lpthread -o main
- 2. For 'Mac',  
+ 2. For `Mac`,  
     g++ main.cpp dTree.cpp RF.cpp -lboost_system -lboost_thread-mt -lpthread -o main
     
         
